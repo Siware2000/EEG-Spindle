@@ -1,6 +1,6 @@
 # EEG-Spindle
 
-Original_Data_V561892_2024.xlsx file contents original row data from 32-bit channel
+original row data from 32-bit channel
 EEG. Every column defines the EEG electrode code/name/index.
 Problem Statement:
 1. Alpha Spindle Count Comparison:
